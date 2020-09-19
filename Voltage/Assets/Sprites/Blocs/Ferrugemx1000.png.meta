@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 72fb8bd6638c25d40bd315279979b4fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -25902201280221859
+    second: Ferrugemx1000_0
+  - first:
+      213: 8807749753185230000
+    second: Ferrugemx1000_1
+  - first:
+      213: 9108700644263718421
+    second: Ferrugemx1000_2
+  - first:
+      213: 3983944587982701299
+    second: Ferrugemx1000_3
+  - first:
+      213: -43912021701608431
+    second: Ferrugemx1000_4
+  - first:
+      213: -4522373959149748859
+    second: Ferrugemx1000_5
+  - first:
+      213: 737588963504605888
+    second: Ferrugemx1000_6
+  - first:
+      213: 4341554054841892370
+    second: Ferrugemx1000_7
+  - first:
+      213: 34368043781109394
+    second: Ferrugemx1000_8
+  - first:
+      213: 6786960647151170706
+    second: Ferrugemx1000_9
+  - first:
+      213: -7173406482150390849
+    second: Ferrugemx1000_10
+  - first:
+      213: 8629094292248138395
+    second: Ferrugemx1000_11
+  - first:
+      213: 2466743996832435188
+    second: Ferrugemx1000_12
+  - first:
+      213: 8927918093390591600
+    second: Ferrugemx1000_13
+  - first:
+      213: -1215904585897177370
+    second: Ferrugemx1000_14
+  - first:
+      213: 3908403776296423566
+    second: Ferrugemx1000_15
+  - first:
+      213: -8538035377168192289
+    second: Ferrugemx1000_16
+  - first:
+      213: 7853417740325925969
+    second: Ferrugemx1000_17
+  - first:
+      213: 3845654522912554004
+    second: Ferrugemx1000_18
+  - first:
+      213: 8468180772374213938
+    second: Ferrugemx1000_19
+  - first:
+      213: -6986159268570736828
+    second: Ferrugemx1000_20
+  - first:
+      213: 589372135440560800
+    second: Ferrugemx1000_21
+  - first:
+      213: -6235660167445504041
+    second: Ferrugemx1000_22
+  - first:
+      213: 7952700321284851476
+    second: Ferrugemx1000_23
+  - first:
+      213: 8773050277603104683
+    second: Ferrugemx1000_24
+  - first:
+      213: -5274884929120186752
+    second: Ferrugemx1000_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ferrugemx1000_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 850
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5daacdc51af3aff0800000000000000
+      internalID: -25902201280221859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 850
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcd32d2cb96b3a70800000000000000
+      internalID: 8807749753185230000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 850
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ee5bad9fa986e70800000000000000
+      internalID: 9108700644263718421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 850
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28c83be70d94730800000000000000
+      internalID: 3983944587982701299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_4
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 850
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3b19bf3ef36ff0800000000000000
+      internalID: -43912021701608431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 690
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58df66f38dc4d31c0800000000000000
+      internalID: -4522373959149748859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 690
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cac0ff11417c3a00800000000000000
+      internalID: 737588963504605888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 690
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef10c096c404c30800000000000000
+      internalID: 4341554054841892370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 690
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b231cd891a7000800000000000000
+      internalID: 34368043781109394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_9
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 690
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294300eefb0203e50800000000000000
+      internalID: 6786960647151170706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 530
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb301f19fc0f27c90800000000000000
+      internalID: -7173406482150390849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 530
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b921dc63a83b0c770800000000000000
+      internalID: 8629094292248138395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 530
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb46038892ab3220800000000000000
+      internalID: 2466743996832435188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_13
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 530
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076345c243656eb70800000000000000
+      internalID: 8927918093390591600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 370
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee84d4a83d302fe0800000000000000
+      internalID: -1215904585897177370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 370
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8091f4e6807d3630800000000000000
+      internalID: 3908403776296423566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 370
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdceb289f0ec28980800000000000000
+      internalID: -8538035377168192289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_17
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 370
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154b0ec53d1fcfc60800000000000000
+      internalID: 7853417740325925969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cb317d9628e5530800000000000000
+      internalID: 3845654522912554004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_19
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 210
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235782fcb85058570800000000000000
+      internalID: 8468180772374213938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 210
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d984d82d2c0f90800000000000000
+      internalID: -6986159268570736828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_21
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 210
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b275a5dedd2800800000000000000
+      internalID: 589372135440560800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 210
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df9b5b9d1c7679a0800000000000000
+      internalID: -6235660167445504041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 30
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41781579ecaad5e60800000000000000
+      internalID: 7952700321284851476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 30
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7dc21feb220c970800000000000000
+      internalID: 8773050277603104683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferrugemx1000_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 30
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ecab0ca18dbc6b0800000000000000
+      internalID: -5274884929120186752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

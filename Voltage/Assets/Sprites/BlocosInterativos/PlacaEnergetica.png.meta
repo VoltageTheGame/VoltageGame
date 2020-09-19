@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: a3a83602a911b874caa25f0563d692a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1037355908357544726
+    second: Coisinhaseletricasx1000_0
+  - first:
+      213: -1475705063247682029
+    second: Coisinhaseletricasx1000_1
+  - first:
+      213: 8357118606365587740
+    second: Coisinhaseletricasx1000_2
+  - first:
+      213: 4921126689479477984
+    second: Coisinhaseletricasx1000_3
+  - first:
+      213: 6445326532350866188
+    second: Coisinhaseletricasx1000_4
+  - first:
+      213: -6168163627589165566
+    second: Coisinhaseletricasx1000_5
+  - first:
+      213: 8845140082611597262
+    second: Coisinhaseletricasx1000_6
+  - first:
+      213: -6093815044236591822
+    second: Coisinhaseletricasx1000_7
+  - first:
+      213: 1959649585307763586
+    second: Coisinhaseletricasx1000_8
+  - first:
+      213: 4692087099322613260
+    second: Coisinhaseletricasx1000_9
+  - first:
+      213: 1965171516572635771
+    second: Coisinhaseletricasx1000_10
+  - first:
+      213: 5312529488224327708
+    second: Coisinhaseletricasx1000_11
+  - first:
+      213: 1542627302600020717
+    second: Coisinhaseletricasx1000_12
+  - first:
+      213: -8731499737795452339
+    second: Coisinhaseletricasx1000_13
+  - first:
+      213: 8265846556756589667
+    second: Coisinhaseletricasx1000_14
+  - first:
+      213: 5883903410733403781
+    second: Coisinhaseletricasx1000_15
+  - first:
+      213: 8435468585575110253
+    second: Coisinhaseletricasx1000_16
+  - first:
+      213: 338806938939422965
+    second: Coisinhaseletricasx1000_17
+  - first:
+      213: 5255166477306172639
+    second: Coisinhaseletricasx1000_18
+  - first:
+      213: -1965321675844358663
+    second: Coisinhaseletricasx1000_19
+  - first:
+      213: 729979231093733749
+    second: Coisinhaseletricasx1000_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 800
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bdd47d3bd656e00800000000000000
+      internalID: 1037355908357544726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 800
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31660e7401e358be0800000000000000
+      internalID: -1475705063247682029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197a3638137af370800000000000000
+      internalID: 8357118606365587740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 800
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea4e1d96aa5b4440800000000000000
+      internalID: 4921126689479477984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 790
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c037c261556627950800000000000000
+      internalID: 6445326532350866188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 630
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e101d6cd7466aa0800000000000000
+      internalID: -6168163627589165566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf22a4aa0040ca70800000000000000
+      internalID: 8845140082611597262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23db851f08b6e6ba0800000000000000
+      internalID: -6093815044236591822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 640
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c2884ae2123b10800000000000000
+      internalID: 1959649585307763586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e315a6b54ad1140800000000000000
+      internalID: 4692087099322613260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 470
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7217081511b54b10800000000000000
+      internalID: 1965171516572635771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18166c2c65e9b940800000000000000
+      internalID: 5312529488224327708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de21b48cb53886510800000000000000
+      internalID: 1542627302600020717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42294cff3b73d680800000000000000
+      internalID: -8731499737795452339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 460
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cbc5726af26b270800000000000000
+      internalID: 8265846556756589667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 310
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e49715af2d7a150800000000000000
+      internalID: 5883903410733403781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 310
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66db2d4cfdc01570800000000000000
+      internalID: 8435468585575110253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 310
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8fbeaad1fa3b400800000000000000
+      internalID: 338806938939422965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4106b611a1ee840800000000000000
+      internalID: 5255166477306172639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdebe93956c9b4e0800000000000000
+      internalID: -1965321675844358663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coisinhaseletricasx1000_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57931ca3e38612a00800000000000000
+      internalID: 729979231093733749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

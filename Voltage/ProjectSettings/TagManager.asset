@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - inimigo
+  - npc
+  - vazio
+  - moeda
+  - chackPoint
+  - checkPoint
+  - gruda
+  - parede
+  - esfera
+  - Plataform
+  - reflete
+  - hitBox
+  - Obstaculo
+  - Plataforma
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1051816551
+    locked: 0
+  - name: first plane
+    uniqueID: 1547749501
+    locked: 0

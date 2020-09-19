@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 9943179f9b00b6044b810dcd9d1150bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4140379783285784219
+    second: ProtagonistaMorrendo_0
+  - first:
+      213: -5407249453727175073
+    second: ProtagonistaMorrendo_1
+  - first:
+      213: -1054154268525087090
+    second: ProtagonistaMorrendo_2
+  - first:
+      213: 5263279147478081064
+    second: ProtagonistaMorrendo_3
+  - first:
+      213: 2457062088103218235
+    second: ProtagonistaMorrendo_4
+  - first:
+      213: -5077922438851398928
+    second: ProtagonistaMorrendo_5
+  - first:
+      213: 7076015235629298726
+    second: ProtagonistaMorrendo_6
+  - first:
+      213: 2368371210380868274
+    second: ProtagonistaMorrendo_7
+  - first:
+      213: -4276095358350018338
+    second: ProtagonistaMorrendo_8
+  - first:
+      213: -6466039902535168871
+    second: ProtagonistaMorrendo_9
+  - first:
+      213: 1801398136123654545
+    second: ProtagonistaMorrendo_10
+  - first:
+      213: 1677505177097026962
+    second: ProtagonistaMorrendo_11
+  - first:
+      213: 2925788543165658187
+    second: ProtagonistaMorrendo_12
+  - first:
+      213: -5099880769328503542
+    second: ProtagonistaMorrendo_13
+  - first:
+      213: -7730163932611073950
+    second: ProtagonistaMorrendo_14
+  - first:
+      213: 1568075781603247785
+    second: ProtagonistaMorrendo_15
+  - first:
+      213: -4523903109724824371
+    second: ProtagonistaMorrendo_16
+  - first:
+      213: -7139957441675387434
+    second: ProtagonistaMorrendo_17
+  - first:
+      213: -7090466122753547412
+    second: ProtagonistaMorrendo_18
+  - first:
+      213: 5771259444585746765
+    second: ProtagonistaMorrendo_19
+  - first:
+      213: -457063825639014622
+    second: ProtagonistaMorrendo_20
+  - first:
+      213: -5076622117037544039
+    second: ProtagonistaMorrendo_21
+  - first:
+      213: -1213868145161303888
+    second: ProtagonistaMorrendo_22
+  - first:
+      213: -3031851603238153492
+    second: ProtagonistaMorrendo_23
+  - first:
+      213: 6924282593272496598
+    second: ProtagonistaMorrendo_24
+  - first:
+      213: -3047801201646672373
+    second: ProtagonistaMorrendo_25
+  - first:
+      213: 6824073965784820532
+    second: ProtagonistaMorrendo_26
+  - first:
+      213: -7211752827186412743
+    second: ProtagonistaMorrendo_27
+  - first:
+      213: -3058649658707674335
+    second: ProtagonistaMorrendo_28
+  - first:
+      213: -2623346292067237022
+    second: ProtagonistaMorrendo_29
+  - first:
+      213: 2013825789710036558
+    second: ProtagonistaMorrendo_30
+  - first:
+      213: 2569878638094031377
+    second: ProtagonistaMorrendo_31
+  - first:
+      213: 6324073251336092120
+    second: ProtagonistaMorrendo_32
+  - first:
+      213: 2397373190330079328
+    second: ProtagonistaMorrendo_33
+  - first:
+      213: -690777177175399088
+    second: ProtagonistaMorrendo_34
+  - first:
+      213: -6754195239007129071
+    second: ProtagonistaMorrendo_35
+  - first:
+      213: -925183823946139781
+    second: ProtagonistaMorrendo_36
+  - first:
+      213: 8001105945104092935
+    second: ProtagonistaMorrendo_37
+  - first:
+      213: -4342550268053676726
+    second: ProtagonistaMorrendo_38
+  - first:
+      213: 5881039241722323552
+    second: ProtagonistaMorrendo_39
+  - first:
+      213: -4301188712154972879
+    second: ProtagonistaMorrendo_40
+  - first:
+      213: -759439254088365219
+    second: ProtagonistaMorrendo_41
+  - first:
+      213: 4870747420079373481
+    second: ProtagonistaMorrendo_42
+  - first:
+      213: 341249863790874185
+    second: ProtagonistaMorrendo_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProtagonistaMorrendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e35f9e975957930800000000000000
+      internalID: 4140379783285784219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistaMorrendo_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eaaaa454795f4b0800000000000000
+      internalID: -5407249453727175073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistaMorrendo_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86b9162744ee51f0800000000000000
+      internalID: -1054154268525087090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistaMorrendo_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed623af7cea0940800000000000000
+      internalID: 5263279147478081064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistaMorrendo_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cc87873fc391220800000000000000
+      internalID: 2457062088103218235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistaMorrendo_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f64322789789b0800000000000000
+      internalID: -5077922438851398928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistaMorrendo_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624bfe0dd5e033260800000000000000
+      internalID: 7076015235629298726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistaMorrendo_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba730351152ed020800000000000000
+      internalID: 2368371210380868274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistaMorrendo_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8b9d36de148a4c0800000000000000
+      internalID: -4276095358350018338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
